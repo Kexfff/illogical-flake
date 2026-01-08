@@ -3,17 +3,17 @@
     "dotfiles": {
       "flake": false,
       "locked": {
-        "lastModified": 1765852623,
-        "narHash": "sha256-9HJadcxRq7Wv9wHLLbnZ/r7SLFsuYRguK8zIbtfKAes=",
+        "lastModified": 1762780848,
+        "narHash": "sha256-+7K/g1N1Mx51ydAGrh6z+sMI05U7Zzh0gGfSlik9K9Q=",
         "ref": "refs/heads/main",
-        "rev": "ea8f0fbc2dd25fef325315cf6c08e324c81abd75",
-        "revCount": 5721,
+        "rev": "f98c42225448d0fc79017e2c2e7a8a9c83b332db",
+        "revCount": 5304,
         "submodules": true,
         "type": "git",
         "url": "https://github.com/end-4/dots-hyprland"
       },
       "original": {
-        "rev": "ea8f0fbc2dd25fef325315cf6c08e324c81abd75",
+        "rev": "f98c42225448d0fc79017e2c2e7a8a9c83b332db",
         "submodules": true,
         "type": "git",
         "url": "https://github.com/end-4/dots-hyprland"
@@ -64,11 +64,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1767869130,
-        "narHash": "sha256-DW2MDIZIavSp12xnQinFGKsmYeDTGDP2pUy3eol/9cU=",
+        "lastModified": 1767875167,
+        "narHash": "sha256-Is76vCcSJUWLPPW4LRo64PW1DrseLdKqdaXsAxi68Mc=",
         "owner": "nix-community",
         "repo": "NUR",
-        "rev": "1444ad06b4b6cf9cf93b837fffc45bc6637d3fda",
+        "rev": "da09336404d86663ea08c0f72b926e37bbfdee1d",
         "type": "github"
       },
       "original": {
