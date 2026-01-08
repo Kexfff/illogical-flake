@@ -10,13 +10,13 @@
         "revCount": 5775,
         "submodules": true,
         "type": "git",
-        "url": "https://github.com/Kexfff/dots-hyprland"
+        "url": "https://github.com/end-4/dots-hyprland"
       },
       "original": {
         "rev": "8ae14725e6ace1694868fa6c76f3072add19305d",
         "submodules": true,
         "type": "git",
-        "url": "https://github.com/Kexfff/dots-hyprland"
+        "url": "https://github.com/end-4/dots-hyprland"
       }
     },
     "flake-parts": {
@@ -84,11 +84,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1767868508,
-        "narHash": "sha256-Hxf1mAGY7pIeG15G1JG8Uf+GfooppPnq6EZm/gpWaAU=",
+        "lastModified": 1767873660,
+        "narHash": "sha256-xZ6HgjP1lW2RCDtnnurMWvO/oz9274awD9FqGOFYIfY=",
         "ref": "refs/heads/master",
-        "rev": "8d19beb69ea72585b93d0ec94168d0bf25f1bd68",
-        "revCount": 718,
+        "rev": "3f73b0acea9656b135c4cf68f379cbdbe075f727",
+        "revCount": 719,
         "type": "git",
         "url": "https://git.outfoxxed.me/outfoxxed/quickshell"
       },
