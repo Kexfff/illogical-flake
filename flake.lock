@@ -3,17 +3,17 @@
     "dotfiles": {
       "flake": false,
       "locked": {
-        "lastModified": 1767031746,
-        "narHash": "sha256-v289oS0cqo95urjsnle4JU14qwMzNHwB69lNMF2mjuk=",
+        "lastModified": 1765852623,
+        "narHash": "sha256-9HJadcxRq7Wv9wHLLbnZ/r7SLFsuYRguK8zIbtfKAes=",
         "ref": "refs/heads/main",
-        "rev": "8ae14725e6ace1694868fa6c76f3072add19305d",
-        "revCount": 5775,
+        "rev": "ea8f0fbc2dd25fef325315cf6c08e324c81abd75",
+        "revCount": 5721,
         "submodules": true,
         "type": "git",
         "url": "https://github.com/end-4/dots-hyprland"
       },
       "original": {
-        "rev": "8ae14725e6ace1694868fa6c76f3072add19305d",
+        "rev": "ea8f0fbc2dd25fef325315cf6c08e324c81abd75",
         "submodules": true,
         "type": "git",
         "url": "https://github.com/end-4/dots-hyprland"
@@ -84,10 +84,10 @@
         ]
       },
       "locked": {
-        "lastModified": 1767873660,
-        "narHash": "sha256-xZ6HgjP1lW2RCDtnnurMWvO/oz9274awD9FqGOFYIfY=",
+        "lastModified": 1767874269,
+        "narHash": "sha256-++tlVUxW8nq0uqbcU1h7X0QQnOehY3/EWUCOr1kbVvM=",
         "ref": "refs/heads/master",
-        "rev": "3f73b0acea9656b135c4cf68f379cbdbe075f727",
+        "rev": "5d8354a88be2ce2c16add7457c94e29f6e7c3684",
         "revCount": 719,
         "type": "git",
         "url": "https://git.outfoxxed.me/outfoxxed/quickshell"
