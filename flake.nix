@@ -17,7 +17,7 @@
 
     # Default dotfiles - can be overridden by users
     dotfiles = {
-      url = "git+https://github.com/end-4/dots-hyprland?rev=52f67431c7f7a000a4fb0ea0c7c244d2962c0513&submodules=1";
+      url = "git+https://github.com/end-4/dots-hyprland?rev=12ebcf2d19cd39f052863405601fcce5dd6fd3e2&submodules=1";
       flake = false;
     };
   };
